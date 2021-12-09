@@ -6,10 +6,6 @@ Code for ICDM2021 paper [GNES: Learning to Explain Graph Neural Networks](https:
 ## Desciption
 This codebase proivdes the necessary running environment (including the human explanation label) to train and evaluate the proposed GNES model on the BBBP molecular datasets. 
 
-* main.py : Model training & testing on the full dataset
-
-* main_fewshot.py : Model training & testing with few-shot learning setup
-
 ##  Installation
 
 Python pakage requirement:
