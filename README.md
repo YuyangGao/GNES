@@ -42,7 +42,13 @@ You will find the following results once done:
 
 - Explanation visualization (figures): will be saved to 'figs/'
 
-Below are some example visuzliation from GNES:
+Below are some sample explanations from GNES (the importance is marked by the darkness of blue circles on nodes and blue lines on edges. Darker color means more importance is given.):
+
+Orignial             |  GNES explanation
+:-------------------------:|:-------------------------:
+<img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/original/73.jpeg" alt="drawing" width="200"/>  |  <img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/GCAM/73.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/original/148.jpeg" alt="drawing" width="200"/>  |  <img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/GCAM/148.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/original/236.jpeg" alt="drawing" width="200"/>  |  <img src="https://github.com/YuyangGao/GNES/blob/main/example_figs/GCAM/236.jpeg" alt="drawing" width="200"/>
 
 
 ## More tips to train GNES on your own datasets:
