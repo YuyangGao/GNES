@@ -57,7 +57,11 @@ Please refer to the 'config.py' file first, as it stores major settings of the G
 - Whether to enable human explanation label supervision
 - Whether to use the proposed explanation regularazation(s): inlcuding \['sparsity', 'consistency'\] 
 
-If you find this code useful in your research, please consider cite our paper:
+If any further questions, please reach out to me via email yuyang.gao@emory.edu
+
+##
+
+And if you find this repo useful in your research, please consider cite our paper:
 
 
     
